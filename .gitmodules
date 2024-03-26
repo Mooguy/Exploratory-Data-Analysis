@@ -1,0 +1,6 @@
+[submodule "Project-2"]
+	path = Project-2
+	url = https://github.com/Mooguy/Project-2
+[submodule "ExData_Plotting1"]
+	path = ExData_Plotting1
+	url = https://github.com/Mooguy/ExData_Plotting1
